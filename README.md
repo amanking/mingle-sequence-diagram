@@ -5,4 +5,4 @@ Built by [Aman King](http://www.amanking.com) and [Sunit Parekh](http://www.suni
 
 Read more [here](http://support.thoughtworks.com/entries/21551981-Mingle-Sequence-Diagram-Macro-Plugin) and [here](http://mingle-seq-diag.rubyforge.org/).
 
-*Disclaimer: This is an old project, not actively maintained.*
+*Disclaimer: This is an archived project, exported from rubyforge; not actively maintained.*
